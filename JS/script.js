@@ -1,0 +1,11 @@
+console.log("1 задание");
+var tC = + prompt("Введите температуру по цельсию:");
+var tF=9/5*tC + 32;
+console.log(tF);
+console.log("2 задание");
+var admin;
+var name = "<<Василий>>";
+admin = name;
+console.log(admin);
+console.log("4 задание");
+console.log(1000 + '108');
