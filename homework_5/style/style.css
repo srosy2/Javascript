@@ -1,0 +1,16 @@
+.chess{
+    width: 640px;
+}
+.black{
+    width: 80px;
+    height: 80px;
+    background: black;
+    float: left;
+}
+.white{
+    width: 80px;
+    height: 80px;
+    background: white;
+    float: left;
+}
+
